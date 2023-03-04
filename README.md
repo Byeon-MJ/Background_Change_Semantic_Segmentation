@@ -1,4 +1,4 @@
-# Background_Change_Semantic_Segmentation
+# Background Change Semantic Segmentation
 Image Background Change using Semantic Segmentation
 
 - Background Image Change using Semantic Segmentation
